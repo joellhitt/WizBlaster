@@ -1,4 +1,4 @@
-# Wiz Blaster 
+# Wiz Blaster #
 
 Blast Wizards
-* For Fun
+* For Fun *
